@@ -1,7 +1,8 @@
 # Bootcamp-Project-1
 collab project for Data Bootcamp: Project 1 
 
-Are Electric Cars Worth It?
+How important is the change to electric cars?
+
 
 Exploration and Data Cleaning
 We found our data on “https://carfueldata.vehicle-certification-agency.gov.uk/ “, a reputable government source for data on vehicle testing. The data set comprises 44 columns, detailing text and numerical information on over 6000 cars registered since 2019. Information was given about the cars’ fuel type, engine type, and many statistics about engine power, various kinds of emissions, and so on. Some of this data would be different for different kinds of car, for instance internal combustion engines would not need information on electric power and vice versa.
