@@ -1,5 +1,5 @@
 # Bootcamp-Project-1
-collab project for Data Bootcamp: Project 1 
+view a slideshow presentation of this readme at https://docs.google.com/presentation/d/1w5KIalZp_sjbLWW5vmZ8nmFyrG-AVmn5aj4jmcooTOQ/edit?usp=sharing
 
 How important is the change to electric cars?
 
