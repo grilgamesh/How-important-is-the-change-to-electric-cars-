@@ -10,8 +10,9 @@ View a slideshow presentation of this readme at https://docs.google.com/presenta
 
 ## Files in this folder
 
-
-
+- "How important is the change to electric cars.pdf" is a copy of the slideshow referenced above.
+- "dataCleaningCode.ipynb" extracts and transforms the data from the raw source to a more suitable format
+- "main.ipynb" performs all the subsequent transformations, statistical analyses, and image production.
 
 ## Exploration and Data Cleaning
 We found our data on “https://carfueldata.vehicle-certification-agency.gov.uk/ “, a reputable government source for data on vehicle testing. The data set comprises 44 columns, detailing text and numerical information on over 6000 cars registered since 2019. Information was given about the cars’ fuel type, engine type, and many statistics about engine power, various kinds of emissions, and so on. Some of this data would be different for different kinds of car, for instance internal combustion engines would not need information on electric power and vice versa.
