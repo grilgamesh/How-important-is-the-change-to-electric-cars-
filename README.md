@@ -30,7 +30,7 @@ Even after all this consideration, there are still questionable values in the da
 ## Popular fuel types
 We decided to start our analysis by studying the different types of fuel that are on the market, and which of them consumers are using the most. We plotted some pie charts that show the popularity of fuel type from 2019-2022. As our charts show, the most popular is Petrol giving us an average of 49.7% of popularity through the years and the second most popular is diesel with 24.3%. We also noticed a slight shift of fuel type usage in the year 2020 compared to the year 2019. It is noticeable that consumers started switching to more hybrid fuel types, although the change is slight as petrol and diesel are still the most popular in these years. In the year 2021 hybrid fuel type, petrol electric, massively increased in usage, becoming the second most popular fuel type after petrol. Purely electric fuel type started gaining more popularity in the same year, however it still remains one of the least used fuel types. The data of the year 2022 shows us that once again diesel has taken the second lead in popularity, however this data is incomplete since the year has not ended.
 
-![image](https://user-images.githubusercontent.com/98031776/189129345-6de7a1e1-2f15-4610-9772-5fa233965017.png)
+![image](https://user-images.githubusercontent.com/98031776/189129447-372dce31-fee0-4aef-864d-ab2236014dcc.png)
 
 ![image](https://user-images.githubusercontent.com/98031776/189128546-6b1423f3-b67f-4547-9092-921d69d62983.png)
 ![image](https://user-images.githubusercontent.com/98031776/189128578-67155c9c-829c-4fd2-9e2f-17b13ad338fd.png)
